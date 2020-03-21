@@ -1,6 +1,5 @@
 # First Task: Basic HTML code
 
-Deadline: Mar 27, 2020 12:00 AM
 Description
 
 See the task.
